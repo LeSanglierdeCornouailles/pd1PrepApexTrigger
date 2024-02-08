@@ -1,2 +1,2 @@
-Contact c = new Contact(LastName='Test Contact 2');
+Contact c = new Contact(Name='Apples & Oranges');
 insert c;
